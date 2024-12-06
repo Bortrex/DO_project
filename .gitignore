@@ -25,4 +25,5 @@ Manifest.toml
 
 # folders
 images/
+
 *.csv
