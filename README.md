@@ -36,9 +36,7 @@ The heuristic provides a similar result to IP model.
 
 ###### Initial attempts
 
-This graph is the initial result of our IP model implementation.
-
-Note how the series *SX* were randomly filled to their maximum.
+This graph is the initial result of our IP model implementation. To denote how the series *SX* were randomly filled to their maximum.
 
 <img src="https://github.com/user-attachments/assets/253d14d7-9118-43bc-81e8-ffc21a8fb600" width="500" height="300">
 
